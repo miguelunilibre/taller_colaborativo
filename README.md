@@ -1,4 +1,4 @@
-# Proyecto del Salón de Clases
+# Taller Colaborativo
 
 Este es un proyecto colaborativo que contiene una página web del grupo 1 de Talento Tech
 
